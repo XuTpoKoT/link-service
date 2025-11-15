@@ -1,4 +1,7 @@
 ## Запуск 
+TTL запросов и максимальное количество переходов по ссылке можно задать в файле
+[application.yml](src/main/resources/application.yml)
+
 Запуск приложения
 ```
 ./gradlew bootRun
